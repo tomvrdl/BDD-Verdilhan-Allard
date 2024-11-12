@@ -1,6 +1,6 @@
 # Système de gestion de voitures pour une concession automobile
 
-Ce projet est un système de gestion de voitures destiné à une concession automobile. Il permet de gérer l'inventaire des voitures, les informations des clients, les ventes réalisées, les employés et les réparations effectuées.
+Ce projet est un système de gestion de voitures destiné à une concession automobile en sql. Il permet de gérer l'inventaire des voitures, les informations des clients, les ventes réalisées, les employés et les réparations effectuées.
 
 ## Fonctionnalités principales
 
