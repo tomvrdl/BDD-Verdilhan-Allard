@@ -23,3 +23,4 @@ Le projet repose sur cinq tables principales dans la base de données :
 ## Installation
 
 1. Télécharger le contenu en zip, tout extraire et suivre le word :
+2. Importer le fichier .sql sur phpmyadmin et decouvrir nos tables
